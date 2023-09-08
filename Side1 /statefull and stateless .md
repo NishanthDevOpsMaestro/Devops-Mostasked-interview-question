@@ -17,7 +17,11 @@ Developers have to work harder to keep state info, which makes it challenging to
 Creating a stateful app is not an easy task. It’s hard to keep track of state info across instances.
 Stateful apps use more resources, especially memory, and storage, which slows them down.
 In the event of a loss, it is hard to get the application back to the way it was because you also have to recover the lost data.
+
+
 What is a Stateless Application?
+
+
 Stateless software applications are those applications that do not save information about previous interactions, user sessions, or events. These applications do not preserve context or state between requests in a stateless design.
 
 Some examples of stateless applications are:
